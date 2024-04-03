@@ -55,6 +55,17 @@ Data from the "publish" zone which is the final zone is sent to Power BI for rep
 
 ![image](https://github.com/yadavdisha/Data-Engineering-Pipeline-Project/assets/34658273/a1d05068-626c-4525-bf29-fa433278720d)
 
+## Data Reporting
+![image](https://github.com/yadavdisha/Data-Engineering-Pipeline-Project/assets/34658273/7ec624ee-3b42-4a56-8e2b-13ab68284e8a)
+
+## Final Pipeline Test
+
+I added a new row to the on-premises database. Shortly after, the pipeline automatically triggered at the scheduled time, leading to an increase in the customer count.
+![image](https://github.com/yadavdisha/Data-Engineering-Pipeline-Project/assets/34658273/a21f1257-573d-4181-a5ac-480245955bfb)
+
+
+
+
 
 
 
